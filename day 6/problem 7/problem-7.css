@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+  }
+  
+  /* Write code here */
+  .navbar {
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    color: #C4E4FC;
+  }
