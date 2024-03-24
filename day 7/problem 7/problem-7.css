@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#container {
+    width: 50%;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#heading {
+    /* Remove this font weight, so that it sets to default */
+    /* font-weight: ; */
+    font-size: 20px;
+    /* Add sans-serif font-family */
+  font-family:sans-serif;
+}
+
+#paragraph {
+    /* Remove this font weight, so that it sets to default */
+    /* font-weight: ; */
+    /* Add sans-serif font-family */
+    font-family:sans-serif;
+}
